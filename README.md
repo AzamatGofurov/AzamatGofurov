@@ -20,8 +20,7 @@
 ## Consulting / Coaching 💼:
 Facing a problem or challenge? Let's work together to find a solution! Feel free to reach out, and we can tackle your issues together.
 
-## Get in Touch 💬:
-## Ulanish 🌐:
+## Get in Touch 💬:🌐
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gofurov777)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aza_life_style?igsh=MWU2NWxtOXpoMXZhMw==)
