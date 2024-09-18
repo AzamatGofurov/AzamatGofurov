@@ -1,4 +1,4 @@
-# Hello, I'm Azamat! ![Waving Hand](https://media.tenor.com/images/f52fc7a1c6bfc9e5a367ba577d47b8ab/tenor.gif)
+# Hello, I'm Azamat! ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 
 👨‍💻 I'm a full-stack developer who loves building and creating. From web development to the latest technologies, I’m always learning and growing. Below, you can find some of my skills and interests. 👇
