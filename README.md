@@ -1,4 +1,5 @@
-# Hello, I'm Azamat! 👋
+# Hello, I'm Azamat! ![Waving Hand](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
 
 👨‍💻 I'm a full-stack developer who loves building and creating. From web development to the latest technologies, I’m always learning and growing. Below, you can find some of my skills and interests. 👇
 
