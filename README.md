@@ -1,4 +1,4 @@
-# Hello, I'm Azamat!![Waving Hand](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNuemhkNXp0eDhhcjFrZGp5ejA1NzJoZ25sczRoNHdpaHJtdzRwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iEzc8eKPy1mHUjLjwt/giphy.gif)
+# Hello, I'm Azamat!![Waving Hand](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVkcjV2dGFtNHp4bXhtN3J0ZWhsZm8xemxic3pmc3E3dnJwZ2M5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrhV2RTdTc4il2CUJK/giphy-downsized-large.gif)
 
 
 👨‍💻 I'm a full-stack developer who loves building and creating. From web development to the latest technologies, I’m always learning and growing. Below, you can find some of my skills and interests. 👇
