@@ -21,10 +21,13 @@
 Facing a problem or challenge? Let's work together to find a solution! Feel free to reach out, and we can tackle your issues together.
 
 ## Get in Touch 💬:
-- [Telegram](https://t.me/gofurov777)
-- [Instagram](https://www.instagram.com/aza_life_style?igsh=MWU2NWxtOXpoMXZhMw==)
-- [GitHub](https://github.com/AzamatGofurov)
-- [Email](mailto:azatrader77@gmail.com)
+## Ulanish 🌐:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gofurov777)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aza_life_style?igsh=MWU2NWxtOXpoMXZhMw==)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzamatGofurov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azatrader77@gmail.com)
+
 
 ---
 
