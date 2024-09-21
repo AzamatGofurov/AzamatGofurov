@@ -31,7 +31,7 @@ Facing a problem or challenge? Let's work together to find a solution! Feel free
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzamatGofurov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azatrader77@gmail.com)
 
-salom qaleysan yaxshimsan
+salom qaleysan yaxshimsan salom salom
 ---
 
 💡 *Every line of code is a new opportunity. Let’s code the future together!*
