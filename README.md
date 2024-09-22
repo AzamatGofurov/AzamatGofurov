@@ -36,7 +36,7 @@ Facing a problem or challenge? Let's work together to find a solution! Feel free
 
 💡 *Every line of code is a new opportunity. Let’s code the future together!*
 
----
+----
 
 ### Technologies & Tools:
 
