@@ -19,7 +19,7 @@
 
 🌟 I strive for perfection in my projects and love applying cutting-edge technologies to solve real-world problems.
 
------
+------
 
 ## Consulting / Coaching 💼:
 Facing a problem or challenge? Let's work together to find a solution! Feel free to reach out, and we can tackle your issues together.
