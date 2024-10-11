@@ -32,7 +32,7 @@ Facing a problem or challenge? Let's work together to find a solution! Feel free
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azatrader77@gmail.com)
 
 
-----------
+--------
 
 💡 *Every line of code is a new opportunity. Let’s code the future together!*
 
